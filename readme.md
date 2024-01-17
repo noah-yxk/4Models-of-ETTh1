@@ -1,0 +1,3 @@
+- 对于LSTM、Seq2seq_LSTM、Seq2seq_attention模型
+  - 运行对于的py文件
+  - 参数在文件内部设置
